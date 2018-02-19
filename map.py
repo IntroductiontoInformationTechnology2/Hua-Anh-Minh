@@ -8,6 +8,7 @@ def initialize_resolution():
     turtle.speed(0)
     turtle.Screen()
     turtle.title("TURTLE RACE")
+    turtle.addshape('python.gif')
 
 
 def draw_finish_line(posX, posY):
